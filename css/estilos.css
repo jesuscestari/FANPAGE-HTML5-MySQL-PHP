@@ -1,0 +1,175 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+.arriba{
+    background-color: rgb(21,25,34);
+}
+.nav-item{
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+#logo{
+    width: 190px;
+    box-sizing: border-box;
+}
+
+.abajo{
+    background-color:#1E2030;
+    color: white;
+    width: 100%;
+}
+
+#riot{
+    width: 5%;
+    margin-right: 15px;
+}
+
+.por{
+    width: 100%;
+    height: 430px;
+    background-color: rgb(75,54,124);
+}
+.ttt{
+    text-align: center;
+    margin-top: 70px;
+    position: relative;
+}
+
+.tex1{
+    float: right;
+    margin-left: 270px;
+    margin-top: -253px;
+    position: relative;
+}
+.prim{
+    margin-top: 15%;
+    margin-bottom: 15%;
+}
+p{
+    padding-top: 25px;
+}
+#textohome{
+    font-size: 18px;
+}
+.i1{
+    float: left;
+    width: 200px;
+    height: 200px;
+
+}
+.i2{
+    float: left;
+    width: 200px;
+    height: 200px;
+    margin-right: 15px;
+
+}
+.i3{
+    float: left;
+    width: 130px;
+    height: 140px;
+    margin-right: 15px;
+
+}
+#new{
+    color: red;
+}
+#titprim{
+    text-align: center;
+    font-size: 40px;
+
+}
+
+h4{
+    text-align: center;
+    font-size: 40px;
+}
+#tmodos{
+    text-align: center;
+    font-size: 50px;
+    margin-top: -95px;
+}
+
+#modos{
+    font-size: 25px;
+    text-align: left;
+}
+
+#imodos{
+    width: 450px;
+}
+
+#par1{
+    text-align: center;
+}
+.fondogaleria{
+    color: white;
+    background-image: url("https://3.bp.blogspot.com/-FTLpc2dtz8o/XCa8Lbtki0I/AAAAAAAAEDU/lbIi5bQV4OcAdVrYCXJkMNovdQfWl_orgCHMYCw/s1600/solid-color-wallpaper-hd-%25E2%2580%2593-hd-wallpaper-9.jpg");
+}
+.ingreso{
+    border-bottom: 1px solid rgb(230, 202, 139);
+}
+
+#primera{
+    color: #fff;
+    background-color:#1E2030;
+}
+
+#segunda{
+    background-color: #22333B;
+    color: white;
+}
+#tercera{
+    background-color: rgb(21,25,34);
+
+    color: white;
+}
+
+.brand_logo{
+    width: 155px;
+}
+
+.alumno-image{
+    text-align: center;
+}
+.alumno-image img{
+    margin-bottom: 1%;
+    margin-top: 3%;
+    width: 17%;
+}
+.card-detalle {
+    margin: 0 auto;
+    float: none;
+    padding-bottom: 7px;
+    
+}
+
+/*formulario de contacto */
+.contact-form{
+    margin-top: 5%;
+    margin-bottom: 5%;
+    width: 80%;
+
+}
+.contact-form .form-control{
+    border-radius:1rem;
+
+}
+.contact-image{
+    text-align: center;
+}
+.contact-image img{
+    margin-bottom: 3%;
+    margin-top: 3%;
+    width: 13%;
+}
+
+
+
+
+
+
+
+
+
